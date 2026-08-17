@@ -33,7 +33,7 @@ Streamlit app evaluates.
 
 ## c. GitHub Repository Link
 
-> **https://github.com/<your-username>/<your-repo>**  *(replace with your link)*
+https://github.com/Bhuvaneswari-2025ad05041/ML-BrestCancer/tree/main/ml_assignment2
 
 Contents:
 
@@ -66,6 +66,7 @@ best value in each column is **bold**.
 | kNN (k = 7) | 0.9737 | 0.9884 | 0.9600 | **1.0000** | 0.9796 | 0.9442 |
 | Naive Bayes (Gaussian) | 0.9386 | 0.9878 | 0.9452 | 0.9583 | 0.9517 | 0.8676 |
 | Random Forest (Ensemble) | 0.9474 | 0.9937 | 0.9583 | 0.9583 | 0.9583 | 0.8869 |
+
 
 *Metrics: Accuracy, AUC (ROC), Precision, Recall, F1, and Matthews Correlation
 Coefficient (MCC). Reproduce with `python model/train_models.py`.*
@@ -108,6 +109,9 @@ streamlit run app.py
 2. Go to <https://streamlit.io/cloud> → sign in with GitHub → **New App**.
 3. Select the repo, branch `main`, main file `app.py` → **Deploy**.
 4. Open the app, upload `test_data.csv`, pick a model, and view the results.
+
+My Streamlit cloud repo
+https://ml-brestcancer-vyrv6pww7talw6pscxfxnk.streamlit.app
 
 ## Notes
 
